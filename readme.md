@@ -5,4 +5,4 @@ This repository contains the notes and code for **Sampling Theory and Methods** 
 `Notebook.rmd` is the R markdown used for R studio  
 `Notebook.md` is the source markdown  
 `/Data` contains some sample data  
-`/Code` contains the sourse R code
+`/Code` contains the source R code
